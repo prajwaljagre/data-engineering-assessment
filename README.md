@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Add partner files
-Place partner files in data/ directory
+Place partner files in ```data/``` directory
+
 
 
