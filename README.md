@@ -10,7 +10,9 @@ Each partner may provide data in different formats (file type, delimiter, column
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Add partner files
 Place partner files in data/ directory
+
 
